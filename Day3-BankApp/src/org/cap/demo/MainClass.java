@@ -16,5 +16,6 @@ private static void greetings() {
 	System.out.println("Branch 3");
 	System.out.println("Branch 2");
 	System.out.println("Branch 4");
+	System.out.println("Branch 1");
 }
 }
