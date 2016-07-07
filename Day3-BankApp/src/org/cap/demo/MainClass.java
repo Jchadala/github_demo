@@ -13,8 +13,12 @@ private static void greetings() {
 	System.out.println("My bank is Citi");
 	System.out.println("Welcome All");
 	System.out.println("Hello you won 1 crore");
+<<<<<<< HEAD
 	System.out.println("Branch 3");
 	System.out.println("Branch 2");
 	System.out.println("Branch 4");
+=======
+	System.out.println("Branch 1");
+>>>>>>> refs/heads/Branch1
 }
 }
