@@ -13,5 +13,6 @@ private static void greetings() {
 	System.out.println("My bank is Citi");
 	System.out.println("Welcome All");
 	System.out.println("Hello you won 1 crore");
+	System.out.println("Branch 2");
 }
 }
