@@ -11,5 +11,6 @@ public static void main(String[] args)
 private static void greetings() {
 	// TODO Auto-generated method stub
 	System.out.println("My bank is Citi");
+	System.out.println("Welcome All");
 }
 }
